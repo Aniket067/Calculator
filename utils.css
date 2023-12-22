@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .text-center{
     text-align: center;
 }
@@ -21,28 +21,3 @@ flex-direction: column;
 .item-center{
     align-items: center;
 
-=======
-.text-center{
-    text-align: center;
-}
-/* .bg-red{
-    background-color: red;
-} */
-.mx-auto{
-    margin: auto;
-}
-/* .m-w-20{
-    max-width: 30vw;
-} */
-.flex {
-
-display: flex;
-}
-.flex-col{
-flex-direction: column;
-}
-.item-center{
-    align-items: center;
-
->>>>>>> 83729e5bf885fab51f71629795920af0b88d1b0c
-}
