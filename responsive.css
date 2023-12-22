@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @media screen and (max-width: 768px) {
     body {
         font-size: 12px;
@@ -24,30 +24,5 @@
         font-size: 14px;
     }
 }
-=======
-@media screen and (max-width: 768px) {
-    body {
-        font-size: 12px;
-    }
 
-    .container {
-        height: auto;
-        padding: 10px;
-    }
 
-    .cal-card {
-        margin: 10px 0;
-    }
-
-    .btn {
-        width: 40px;
-        padding: 12px;
-        font-size: 14px;
-    }
-
-    .row1 input {
-        width: 96%;
-        font-size: 14px;
-    }
-}
->>>>>>> 83729e5bf885fab51f71629795920af0b88d1b0c
