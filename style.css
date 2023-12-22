@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 * {
@@ -99,3 +100,106 @@ body h1 {
 .row1 input:focus {
     outline: 2px solid lightsalmon;
 }
+=======
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body h1 {
+    background-color: antiquewhite;
+    font-size: 35px;
+    font-weight: 100;
+    outline: 3px solid lightsalmon;
+    color: lightsalmon;
+}
+
+.container {
+    background-color: bisque;
+    height: 92.35vh;
+
+}
+
+.btn {
+    background-color: lightsalmon;
+    width: 56px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+.row {
+    margin: 3px 0px;
+}
+
+.row1 {
+
+    margin: 2px;
+    padding: 2px;
+
+
+}
+
+.sign-color {
+    background-color: rgb(247, 225, 199);
+}
+
+.equal-color {
+    background-color: color-mix(in srgb, antiquewhite 40%, beige 60%);
+
+}
+
+.row1 input {
+    width: 247px;
+    border-radius: 6px;
+    height: 40px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.cal-card {
+    margin: 65px;
+
+}
+
+/* .btn-ac{
+    position: relative;
+    padding: 17px;
+    margin: 0px -1px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    height: 61px;
+    width: 51px;
+
+} 
+
+ .btn-m{
+    padding: 18px;
+    margin: 0px -1px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    height: 61px;
+    width: 50px;
+} */
+
+
+.btn:hover {
+  background-color:antiquewhite;
+    color: black;
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.row1 input:focus {
+    outline: 2px solid lightsalmon;
+}
+>>>>>>> 83729e5bf885fab51f71629795920af0b88d1b0c
