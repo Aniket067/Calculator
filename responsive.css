@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 12px;
+    }
+
+    .container {
+        height: auto;
+        padding: 10px;
+    }
+
+    .cal-card {
+        margin: 10px 0;
+    }
+
+    .btn {
+        width: 40px;
+        padding: 12px;
+        font-size: 14px;
+    }
+
+    .row1 input {
+        width: 96%;
+        font-size: 14px;
+    }
+}
